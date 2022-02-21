@@ -6,4 +6,4 @@ In this project I have memorized what the boilerplate code looks like and how to
 
 I implemented links in the homepage to recipe page where I used to show proper images of the recipe.
 This page also show headings of description, ingredients and steps using.
-Under those headings I used paragaraph tag, unorder lists of ingredients, and order lists of steps.
+Under those headings I used paragaraph tag, unorder lists tag for ingredients, and order lists tag for steps.
